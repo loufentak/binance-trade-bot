@@ -3,6 +3,7 @@
     "description": "Binance Trader",
     "logo": "https://cdn.freebiesupply.com/logos/large/2x/binance-coin-logo-png-transparent.png",
     "repository": "https://github.com/loufentak/binance-trade-bot",
+	"stack": "heroku-22",
 	"formation": {
     "worker": {
       "quantity": 1,
